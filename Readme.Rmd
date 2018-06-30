@@ -1,0 +1,16 @@
+---
+title: "README"
+author: "Zsolt Szabo"
+date: "17/06/2017"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## This is the readme file for Simple Expenditure Shiny app. The app comes with absolutely no warranty.
+
+## How to use the app
+
+If you use the app for the first time you need to run the file <runfirst.R>. To do so, either use R and run the code or type RSCRIPT runfirst.R in your shell. 
